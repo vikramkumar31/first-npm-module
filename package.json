@@ -1,0 +1,24 @@
+{
+  "name": "first-npm-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramkumar31/first-npm-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vikramkumar31/first-npm-module/issues"
+  },
+  "homepage": "https://github.com/vikramkumar31/first-npm-module#readme",
+  "dependencies": {
+    "boxen": "^5.1.2"
+  }
+}
